@@ -22,7 +22,7 @@ function init_options () {
         }
     }
 }
-
+//this comment is here just because i wanted to add a note so you may remove this after
 function save_options () {
     console.log("function: save_options");
 
