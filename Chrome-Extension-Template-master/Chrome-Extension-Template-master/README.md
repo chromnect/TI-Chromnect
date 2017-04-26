@@ -2,11 +2,13 @@
     <head>
     </head>
     <body>
-        <h2>Chrome Extension Template</h2>
-        <div><b>Version:</b> 1.0</div>
-        <div><b>Author:</b> Nate McIntyre (nate@tsheets.com)</div>
-        <div><b>Updated:</b> 2013.05.17</div>
-        <div><b>Description:</b> Simple Chrome extension template to kickstart your own Chrome Extension projects. Simply clone this project and you will have all the required basic code necessary to start developing your own browser extension for Chrome.</div>
+        <h2>TI-connect Online</h2>
+        <div><b>Version:</b> 0.001 PRE-RELESE</div>
+        <div><b>Author:</b> SeeGreatness (code.seegreatness@gmail.com)</div>
+        <div><b>Author #1:</b> Jacob-Kuschel (code.seegreatness@gmail.cm)</div>
+        <div><b>Author #2:</b> pieman3737 (code.seegreatness@gmail.cm)</div>
+        <div><b>Updated:</b> 2017.april.24</div>
+        <div><b>Description:</b> a version of TI-connect for chrome!</div>
         <div><b>Official Google Getting Started Guide:</b> http://developer.chrome.com/extensions/getstarted.html</div>
         <div><b>Bundled Software / Libraries:</b></div>
         <div>
