@@ -6,7 +6,7 @@
     "manifest_version": 2,
 
     //recommended
-    "description": "Chrome extension description written here.",
+    "description": "This chrome extention will enable you to interface the internet and your calculator please note that this git is being developed",
     "icons": {
         "19": "images/icon_19.png",
         "38": "images/icon_38.png",
