@@ -2,13 +2,13 @@
     <head>
     </head>
     <body>
-        <h2>TI-connect Online</h2>
+        <h2>TI-Chromnect</h2>
         <div><b>Version:</b> 0.001 PRE-RELESE</div>
         <div><b>Author #1:</b> SeeGreatness (code.seegreatness@gmail.com)</div>
-        <div><b>Author #2:</b> Jacob-Kuschel (code.seegreatness@gmail.com)</div>
+        <div><b>Author #2:</b> Jacob-Kuschel (jacob@letsdosomethingcool.com)</div>
         <div><b>Author #3:</b> pieman3737 (code.seegreatness@gmail.com)</div>
         <div><b>Updated:</b> 2017.april.24</div>
-        <div><b>Description:</b> a version of TI-connect for chrome!</div>
+        <div><b>Description:</b> A version of TI-Connect for Chrome!</div>
         <div><b>Official Google Getting Started Guide:</b> http://developer.chrome.com/extensions/getstarted.html</div>
         <div><b>Bundled Software / Libraries:</b></div>
         <div>
