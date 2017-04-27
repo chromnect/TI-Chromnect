@@ -5,7 +5,7 @@
         <h2>TI-Chromnect</h2>
         <div><b>Version:</b> 0.001 PRE-RELESE</div>
         <div><b>Author #1:</b> SeeGreatness (seegreatness@tichromnect.honor.es)</div>
-        <div><b>Author #2:</b> Jacob-Kuschel (jacob@tichromnect.honor.es)</div>
+        <div><b>Author #2:</b> Jacob-Kuschel (Jacob@letsdosomethingcool.com)</div>
         <div><b>Author #3:</b> pieman3737 (pieman@tichromnect.honor.es)</div>
         <div><b>Author #4:</b> bowTiesAreCool (colin@tichromnect.honor.es)</div>
         <div><b>Updated:</b> 2017.april.27</div>
