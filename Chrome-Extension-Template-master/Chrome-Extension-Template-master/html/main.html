@@ -10,8 +10,8 @@
         <script type="text/javascript" src="../js/bootstrap.min.js"></script>
 
         <!-- load stylesheets: internal -->
-        <link rel="stylesheet" type="text/css" href="../css/global.css"></link>
-        <link rel="stylesheet" type="text/css" href="../css/main.css"></link>
+        <link rel="stylesheet" type="text/css" href="../css/global.css">global.css</link>
+        <link rel="stylesheet" type="text/css" href="../css/main.css">main.css</link>
     </head>
     <body>
         <div id="main-outer">
@@ -21,6 +21,20 @@
                 <div id="main-about-text">under development</div>
             </div>
         </div>
+        <script>window.addEventListener("load", function() {
+    var f = document.getElementById('main-title');
+    setInterval(function() {
+        f.style.display = (f.style.display == 'none' ? '' : 'none');
+    }, 100);
+
+}, false);</script>
+         <script>window.addEventListener("load", function() {
+    var f = document.getElementById('main-about-text');
+    setInterval(function() {
+        f.style.display = (f.style.display == 'none' ? '' : 'none');
+    }, 100);
+
+}, false);</script>
 
         <!-- load javascript: unique html page javascript file -->
         <script type="text/javascript" src="../js/main.js"></script>
