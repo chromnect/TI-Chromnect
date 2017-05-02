@@ -4,7 +4,5 @@ The goal of this program is to have functional software to transfer data onto TI
 - [x] make a html template
 - [x] give every directory a readme file
 - [ ] add this checkbox list to all read me files with relevent info 
-- [f]
-- [ ]
-- [ ]
-- [ ]
+- [X]give an example of this check box thing (they are called tasks) you do this by "- [ ]text" to say that has not been compleated and "- [x]text that has been compleated" if it has been compleated
+
