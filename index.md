@@ -26,7 +26,6 @@ header 3
 ```js
 js code with syntax highlighting.
 
-}
 ```
 
 ```ruby
