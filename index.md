@@ -24,31 +24,15 @@ header 3
 
 
 ```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
+this is where we may put ja for now 
+note this is not a html comment (that is if your in the index.md file)
 }
 ```
 
 ```ruby
 # Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
 ```
 
-#### [](#header-4)Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### [](#header-5)Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
 
 ###### [](#header-6)Header 6
 
@@ -63,35 +47,7 @@ end
 
 * * *
 
-### Here is an unordered list:
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
 
 ### Small image
 
@@ -106,18 +62,36 @@ end
 
 <dl>
 <dt>Name</dt>
-<dd>Godzilla</dd>
+<dd>seegreatness</dd>
 <dt>Born</dt>
-<dd>1952</dd>
+<dd>2000</dd>
 <dt>Birthplace</dt>
-<dd>Japan</dd>
+<dd>edmonton alberta canada</dd>
 <dt>Color</dt>
-<dd>Green</dd>
+<dd>purple</dd>
+</dl>
+<dl>
+<dt>Name</dt>
+<dd>sjacob</dd>
+<dt>Born</dt>
+<dd>2000</dd>
+<dt>Birthplace</dt>
+<dd>edmonton alberta canada</dd>
+<dt>Color</dt>
+<dd>purple</dd>
+</dl>
+<dl>
+<dt>Name</dt>
+<dd>colin</dd>
+<dt>Born</dt>
+<dd>2000</dd>
+<dt>Birthplace</dt>
+<dd>edmonton alberta canada</dd>
+<dt>Color</dt>
+<dd>purple</dd>
 </dl>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+
 
 ```
 The final element.
