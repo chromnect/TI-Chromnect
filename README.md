@@ -1,7 +1,7 @@
 # TI-Chromnect
 The goal of this program is to have functional software to transfer data onto TI calculators that works in a web browser.
 
-## contributors
+## Contributors
 - SeeGreatness
 - Jacob
 - Pieman3737
@@ -10,7 +10,6 @@ The goal of this program is to have functional software to transfer data onto TI
 - [x] make a html template
 - [x] give every directory a readme file
 - [ ] add this checkbox list to all read me files with relevent info 
-- [X] give an example of this check box thing (they are called tasks) you do this by "- [ ] text" to say that has not been compleated and "- [x] text that has been compleated" if it has been compleated ALSO note that it requires a space after the closeing ] from text ( -[ ]_text )where the underscore represents the space
 - [ ] need to rename all the contribtion.md variations to the same name
 - [x] added a contributions.md to every directory 
 - [ ] will need to remove the contributions.md on a relese to reduce file size that can be avoided.
