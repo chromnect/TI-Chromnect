@@ -32,7 +32,7 @@ js code with syntax highlighting.
 # Ruby code with syntax highlighting.
 ```
 
-### Their's a horizontal rule below this.
+### there's a horizontal rule below this.
 
 * * *
 
