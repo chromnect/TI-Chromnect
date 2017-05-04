@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: Hacker
 ---
 
 ## Welcome to another page
