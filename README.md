@@ -15,9 +15,10 @@ The goal of this program is to have functional software to transfer data onto TI
 
 #### our websites
 https://chromnect.carrd.co/
+
 [small splash page](https://chromnect.carrd.co/)
-[chromnect webpage](https://chromnect.carrd.co/ "chromnect splash-page")
-[I'm an inline-style link](https://www.google.com)
+[chromnect webpage](https://chromnect.carrd.co/)
+we are working to fix this linking issue
 
 ## Contributors
 - SeeGreatness
