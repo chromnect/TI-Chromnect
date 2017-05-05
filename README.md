@@ -16,10 +16,6 @@ The goal of this program is to have functional software to transfer data onto TI
 #### our websites
 https://chromnect.carrd.co/
 
-https://seegreatness-error-page.carrd.co/
-
-https://chromenct-dependencies.carrd.co/
-
 
 ## Contributors
 - SeeGreatness
