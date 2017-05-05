@@ -20,8 +20,7 @@ The goal of this program is to have functional software to transfer data onto TI
 
 [chromnect webpage](https://chromnect.carrd.co/)
 
-
-
+[git pages](https://chromnect.github.io/TI-Chromnect/)
 ## Contributors
 - SeeGreatness
 - Jacob
