@@ -3,8 +3,8 @@
 [![GitHub stars](https://img.shields.io/github/stars/chromnect/TI-Chromnect.svg?style=flat-plastic)](https://github.com/chromnect/TI-Chromnect/stargazers)
 [![GitHub license](https://img.shields.io/badge/license-CC0-blue.svg?style=plastic)](https://raw.githubusercontent.com/chromnect/TI-Chromnect/master/LICENSE)
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/chromnect/TI-Chromnect.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=%5Bobject%20Object%5D)
-[![GitHub version](https://img.shields.io/badge/version-1.0-brightgreen.svg)](https://raw.githubusercontent.com/chromnect/TI-Chromnect/master/version)
-
+[![GitHub version](https://img.shields.io/badge/project%20version-1.0-brightgreen.svg)](https://raw.githubusercontent.com/chromnect/TI-Chromnect/master/version.md)
+[![GitHub web version](https://img.shields.io/badge/web%20version-1.0-brightgreen.svg)](https://raw.githubusercontent.com/chromnect/TI-Chromnect/master/web-version.md)
 
 # TI-Chromnect
 The goal of this program is to have functional software to transfer data onto TI calculators that works in a web browser.
