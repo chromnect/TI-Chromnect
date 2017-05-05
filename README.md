@@ -5,6 +5,8 @@
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/chromnect/TI-Chromnect.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=%5Bobject%20Object%5D)
 [![GitHub version](https://img.shields.io/badge/project%20version-1.0-brightgreen.svg)](https://raw.githubusercontent.com/chromnect/TI-Chromnect/master/version.md)
 [![GitHub web version](https://img.shields.io/badge/web%20version-1.0-brightgreen.svg)](https://raw.githubusercontent.com/chromnect/TI-Chromnect/master/web-version.md)
+[![GitHub chat](https://img.shields.io/badge/chat-on%20gitter-blue.svg)](https://gitter.im/TI-Chromnect/Lobby)
+
 
 # TI-Chromnect
 The goal of this program is to have functional software to transfer data onto TI calculators that works in a web browser.
