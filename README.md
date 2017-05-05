@@ -1,7 +1,7 @@
-[![GitHub issues](https://img.shields.io/github/issues/chromnect/TI-Chromnect.svg?style=flat-square)](https://github.com/chromnect/TI-Chromnect/issues)
-[![GitHub forks](https://img.shields.io/github/forks/chromnect/TI-Chromnect.svg?style=flat-square)](https://github.com/chromnect/TI-Chromnect/network)
-[![GitHub stars](https://img.shields.io/github/stars/chromnect/TI-Chromnect.svg?style=flat-square)](https://github.com/chromnect/TI-Chromnect/stargazers)
-[![GitHub license](https://img.shields.io/badge/license-CC0-blue.svg)](https://raw.githubusercontent.com/chromnect/TI-Chromnect/master/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/chromnect/TI-Chromnect.svg?style=plastic)](https://github.com/chromnect/TI-Chromnect/issues)
+[![GitHub forks](https://img.shields.io/github/forks/chromnect/TI-Chromnect.svg?style=flat-plastic)](https://github.com/chromnect/TI-Chromnect/network)
+[![GitHub stars](https://img.shields.io/github/stars/chromnect/TI-Chromnect.svg?style=flat-plastic)](https://github.com/chromnect/TI-Chromnect/stargazers)
+[![GitHub license](https://img.shields.io/badge/license-CC0-blue.svg?style=plastic)](https://raw.githubusercontent.com/chromnect/TI-Chromnect/master/LICENSE)
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/chromnect/TI-Chromnect.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=%5Bobject%20Object%5D)
 
 
