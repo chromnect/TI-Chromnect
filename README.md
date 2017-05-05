@@ -6,6 +6,10 @@
 [![GitHub version](https://img.shields.io/badge/project%20version-1.0-brightgreen.svg)](https://raw.githubusercontent.com/chromnect/TI-Chromnect/master/version.md)
 [![GitHub web version](https://img.shields.io/badge/web%20version-1.0-brightgreen.svg)](https://raw.githubusercontent.com/chromnect/TI-Chromnect/master/web-version.md)
 [![GitHub chat](https://img.shields.io/badge/chat-on%20gitter-blue.svg)](https://gitter.im/TI-Chromnect/Lobby)
+![GitHub maintenence](https://img.shields.io/maintenance/yes/2017.svg?maxAge=2592000)
+[![GitHub contributers](https://img.shields.io/github/contributors/chromnect/chromnect.svg)](https://github.com/chromnect/TI-Chromnect/graphs/contributors)
+[![GitHub closed issues](https://img.shields.io/github/issues-closed/badges/chromnect.svg?)](https://github.com/chromnect/TI-Chromnect/issues?q=is%3Aissue+is%3Aclosed)
+[![GitHub status](https://img.shields.io/pypi/status/chromnect.svg?maxAge=2592000)](https://github.com/chromnect/TI-Chromnect)
 
 
 # TI-Chromnect
