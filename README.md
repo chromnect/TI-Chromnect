@@ -6,8 +6,6 @@
 [![GitHub version](https://img.shields.io/badge/project_version-1.0-brightgreen.svg)](https://raw.githubusercontent.com/chromnect/TI-Chromnect/master/version.md)
 [![GitHub web version](https://img.shields.io/badge/web_version-1.0-brightgreen.svg)](https://raw.githubusercontent.com/chromnect/TI-Chromnect/master/web-version.md)
 [![GitHub chat](https://img.shields.io/badge/chat-on_gitter-blue.svg)](https://gitter.im/TI-Chromnect/Lobby)
-
-
 [![GitHub closed issues](https://img.shields.io/badge/closed_issues-1-brightgreen.svg)](https://github.com/chromnect/TI-Chromnect/issues?q=is%3Aissue+is%3Aclosed)
 [![GitHub status](https://img.shields.io/badge/status-stable-brightgreen.svg)](https://github.com/chromnect/TI-Chromnect)
 [![GitHub contributers](https://img.shields.io/badge/contributors-4-brightgreen.svg)](https://github.com/chromnect/TI-Chromnect/graphs/contributors)
