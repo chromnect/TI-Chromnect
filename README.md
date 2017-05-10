@@ -11,7 +11,7 @@
 [![GitHub contributers](https://img.shields.io/badge/contributors-4-brightgreen.svg)](https://github.com/chromnect/TI-Chromnect/graphs/contributors)
 
 # TI-Chromnect
-The goal of this program is to have functional software to transfer data onto TI calculators that works in a web browser.
+The goal of this program is to have functional software to transfer data onto TI calculators that works in a web browser. test
 
 #### our websites
 
