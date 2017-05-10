@@ -35,3 +35,4 @@ The goal of this program is to have functional software to transfer data onto TI
 - [ ] need to rename all the contribtion.md variations to the same name
 - [x] added a contributions.md to every directory 
 - [ ] will need to remove the contributions.md on a relese to reduce file size that can be avoided.
+- [ ] make the wiki (thats Pieman's job)
